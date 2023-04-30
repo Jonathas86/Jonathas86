@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Olá, sou  Jonathas Soares um apaixonado por tecnolog!
 <!--
 **Jonathas86/Jonathas86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
